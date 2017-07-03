@@ -1,6 +1,6 @@
 {
   "name": "npm-r",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A faster npm-run",
   "bin": {
     "npm-r": "./npm-r.sh"
