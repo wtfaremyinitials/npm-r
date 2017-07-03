@@ -1,0 +1,27 @@
+{
+  "name": "npm-r",
+  "version": "0.0.0",
+  "description": "A faster npm-run",
+  "bin": {
+    "npm-r": "./npm-r.sh"
+  },
+  "scripts": {
+      "bench": "echo Hello World"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtfaremyinitials/npm-r.git"
+  },
+  "keywords": [
+    "npm",
+    "yarn",
+    "run",
+    "npm-run"
+  ],
+  "author": "Will Franzen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wtfaremyinitials/npm-r/issues"
+  },
+  "homepage": "https://github.com/wtfaremyinitials/npm-r#readme"
+}
