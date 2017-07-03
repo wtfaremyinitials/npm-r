@@ -6,7 +6,7 @@
     "npm-r": "./npm-r.sh"
   },
   "scripts": {
-      "bench": "echo Hello World"
+    "bench": "echo Hello World"
   },
   "repository": {
     "type": "git",
