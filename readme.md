@@ -1,3 +1,7 @@
+![](https://img.shields.io/npm/dm/npm-r.svg)
+![](https://img.shields.io/npm/v/npm-r.svg)
+![](https://img.shields.io/npm/l/npm-r.svg)
+
 npm-r
 ===
 
